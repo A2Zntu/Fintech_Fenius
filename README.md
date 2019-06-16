@@ -13,6 +13,11 @@ https://github.com/A2Zntu/Fintech_Fenius/blob/master/FENIUS.pdf
 * Youtube連結  
 http://yt1.piee.pw/JDJMH
 
+* 加入Line 好友 
+Line ID: @838hwniq
+QRcode:  
+![alt text](https://github.com/A2Zntu/Fintech_Fenius/blob/master/subfunction/pictures/qrcode.png "QRcode") 
+
 
 
 
