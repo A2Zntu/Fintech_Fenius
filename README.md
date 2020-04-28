@@ -10,13 +10,13 @@ B05902027 尹慕哲
 R07723037 陳韻竹  
 R06723051 姜奕帆    
 
-
 Data Resorce
 -------------- 
 * Data resorce:    
-    * Fund:  http://www.taifex.com.tw/cht/3/dlFutPrevious30DaysSalesData  
-    * Options:  http://www.taifex.com.tw/cht/3/dlOptPrevious30DaysSalesData
-    * Rate: TEJ
+    * Fund Prospectus:  https://mops.twse.com.tw/mops/web/t57sb01_q7
+    * Fund Info:  https://www.moneydj.com/
+    * Fund Historical data: TEJ
+
 
 
 Compliment: 
